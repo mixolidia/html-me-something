@@ -7,9 +7,6 @@ body {
 	font-size: 62.5%;
 }
 
-.CityTitle {
-	text-decoration: underline;
-}
 header,
 main,
 footer {
@@ -97,4 +94,12 @@ img {
 	body {
 		font-size: 50%;
 	}
+}
+
+.CityTitle {
+	text-decoration: underline;
+}
+
+#nombre {
+	color: rgba(173, 14, 236, 0.753);
 }
