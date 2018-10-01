@@ -7,6 +7,9 @@ body {
 	font-size: 62.5%;
 }
 
+.CityTitle {
+	text-decoration: underline;
+}
 header,
 main,
 footer {
